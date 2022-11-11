@@ -64,8 +64,8 @@ This is a web based application developed for health and fitness related based w
 
 
 
+![image](https://user-images.githubusercontent.com/85917308/201373957-9dcdea6e-1a21-49a3-94b0-63d39a235bd9.png)
 
-![Uploading image.png…]()
 
 
 
