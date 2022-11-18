@@ -7,6 +7,11 @@ This is a web based application developed for health and fitness related based w
 
 
 **Project Link** -https://polite-mud-0bc322200.2.azurestaticapps.net
+
+
+
+
+
 **project demo video link** - 
 
 ## Azure technologies used for Project
