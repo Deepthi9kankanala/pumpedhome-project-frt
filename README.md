@@ -1,7 +1,7 @@
 # pumpedhome-project-frt
 # ✨  PUMPEDHOME ✨ 
 
-This is a web based application developed for health and fitness related based website in india
+This is a web based application developed for health and fitness related based  website 
 
 ### This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
@@ -12,7 +12,7 @@ This is a web based application developed for health and fitness related based w
 
 
 
-**project demo video link** - 
+**project demo video link** - https://youtu.be/fk0qPn_P1lg
 
 ## Azure technologies used for Project
 
